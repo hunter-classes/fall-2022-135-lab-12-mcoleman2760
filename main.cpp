@@ -54,7 +54,7 @@ std::cout << "------------------" << std::endl;
 
 
 std::vector<int> first{1,2,3};
-std::vector<int> second{4,5};
+std::vector<int> second{4,5,3};
 
 std::vector<int> vd = sumPairWise(first, second);
 
